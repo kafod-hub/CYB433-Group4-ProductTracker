@@ -1,13 +1,17 @@
-# Sample Hardhat Project
+# CYB433 - Product Authenticity Tracker (Group 4)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+## Group Members
+- Member 1: [محمد ممدوح كردي] - [4401270]
+- Member 2: [Name] - [Student ID]
+- Member 3: [Name] - [Student ID]
+- Member 4: [Name] - [Student ID]
 
-Try running some of the following tasks:
+## Deployment Details (Sepolia Testnet)
+- **Contract Address:** `0x18519E397A76e90ad715ca1E00639d40E946876F`
+- **Verified Etherscan URL:** https://sepolia.etherscan.io/address/0x18519E397A76e90ad715ca1E00639d40E946876F#code
 
-```shell
-npx hardhat help
+## How to Run Locally
+```bash
+npm install
 npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+npx hardhat coverage

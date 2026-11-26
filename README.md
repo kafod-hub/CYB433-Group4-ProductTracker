@@ -4,7 +4,7 @@
 - Member 1: [محمد ممدوح كردي] - [4401270]
 - Member 2: [محمد دخيل الله الجهني] - [4404124]
 - Member 3: [محمد مسلم الحربي] - [4404330]
-- Member 4: [Name] - [Student ID]
+- Member 4: [مروان فرج الجهني ] - [ 4402504]
 
 ## Deployment Details (Sepolia Testnet)
 - **Contract Address:** `0x18519E397A76e90ad715ca1E00639d40E946876F`
